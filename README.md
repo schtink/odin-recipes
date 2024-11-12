@@ -7,4 +7,4 @@ In this project I will use the following skills:
 - Create HTML pages using correct syntax and best practices
     - Make use of DOCTYPE, head, and body tags
     - Format text with headings, paragraph tags, bold, italics, and so on
-    - Make us of ordered and unordred lists
+    - Make use of ordered and unordred lists
