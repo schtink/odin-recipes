@@ -3,28 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Odin Recipes</title>
-    <style>
-        .recipe-wrapper {
-            max-width:800px;
-            margin:0 auto;
-        }
-        img {
-            padding:10px;
-            max-width:400px;
-            height:auto;
-            float:right;
-        }
-    </style>
 </head>
 <body>
-    <div class="recipe-wrapper">
+    <div class="wrapper">
         <h1>Odin Recipes</h1>
-        <ul>
-            <li><a href="recipes/fresh-cranberry-sauce.html">Fresh Cranberry Sauce</a></li>
-            <li><a href="recipes/basic-mashed-potatoes.html">Basic Mashed Potatoes</a></li>
-            <li><a href="recipes/grandmas-cornbread-dressing.html">Grandma's Cornbread Dressing</a></li>
-        </ul>
+        <div class="recipes">
+            <a href="recipes/fresh-cranberry-sauce.html">
+                <img src="img/cranberry-sauce.jpeg">
+                <p>Fresh Cranberry Sauce</p></a>
+            <a href="recipes/basic-mashed-potatoes.html">
+                <img src="img/mashed-potatoes.jpeg">
+                <p>Basic Mashed Potatoes</p></a>
+            <a href="recipes/grandmas-cornbread-dressing.html">
+                <img src="img/cornbread.webp">
+                <p>Grandma's Cornbread Dressing</p></a>
+        </div>
     </div>
 </body>
 </html>
