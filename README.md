@@ -1,6 +1,8 @@
 # Odin Recipes
 This project is intended to demonstrate basic git and HTML skills as defined by The Odin Project (TOP).
 
+See [live preview] (https://schtink.github.io/odin-recipes/)
+
 In this project I will use the following skills:
 - Use git and the command line to manage my project and its changes
 - Use VSCode to write and edit HTML
